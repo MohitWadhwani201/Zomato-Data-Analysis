@@ -1,0 +1,11 @@
+order_id,customer_name,city,restaurant,cuisine,amount,status
+1,Rahul Sharma,Mumbai,Pizza Hut,Italian,450,delivered
+2,Priya Patel,Delhi,McDonald's,Fast Food,320,cancelled
+3,Amit Singh,Bangalore,Behrouz Biryani,Indian,,delivered
+4,Sneha Rao,Mumbai,Dominos,Italian,600,delivered
+5,Ravi Kumar,Delhi,KFC,Fast Food,280,pending
+6,Neha Gupta,Bangalore,Pizza Hut,Italian,530,delivered
+7,Arjun Mehta,Mumbai,,Indian,410,delivered
+8,Pooja Shah,Delhi,Behrouz Biryani,Indian,390,cancelled
+9,Karan Verma,Bangalore,McDonald's,Fast Food,,pending
+10,Divya Nair,Mumbai,KFC,Fast Food,710,delivered
